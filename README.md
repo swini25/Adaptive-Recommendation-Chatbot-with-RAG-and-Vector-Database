@@ -56,8 +56,6 @@ The application has been tested with a variety of skin care queries to ensure it
 - "Suggest a diet plan for a healthy skin.”
 - "How to manage stress effectively to get good skin?"
 
-## Video Demonstration
-A detailed video walkthrough of the application demonstrating its features and usage can be found [here](https://youtu.be/KI6cY6RzfoY).
 
 ## Documentation
 - *Flowise Documentation*: [Flowise Documentation](https://docs.flowiseai.com/)
